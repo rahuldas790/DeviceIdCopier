@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeviceImei</string>
+    <string name="get_deive_id">Get Device ID</string>
+    <string name="device_id_s">Device ID:\n%s</string>
+    <string name="imei_no_s">IMEI No:\n%s</string>
+    <string name="copy">Copy</string>
+</resources>
